@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bukkit Plugin:jar">
+    <output-path>$USER_HOME$/Desktop/Dev Server/plugins</output-path>
+    <root id="archive" name="StTheo Minecraft.jar">
+      <element id="module-output" name="StTheo Minecraft" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>
